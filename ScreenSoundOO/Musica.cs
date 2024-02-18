@@ -21,6 +21,7 @@
     {
         Console.WriteLine($"Nome: {Nome}");
         Console.WriteLine($"Artista: {Artista.NomeBanda}");
+        Console.WriteLine($"Gênero: {Genero.NomeGenero}");
         Console.WriteLine($"Duração: {Duracao} segundos");
         if (Disponivel)
         {
